@@ -1,6 +1,6 @@
 # 다운로드 방법
-우측 상단의 <> Code 버튼을 누르고, 아래의 Download ZIP 클릭
-다운받은 압축 파일 해제 후, ClashCalculator.exe 실행
+1. 우측 상단의 <> Code 버튼을 누르고, 아래의 Download ZIP 클릭\n
+2. 다운받은 압축 파일 해제 후, ClashCalculator.exe 실행\n
 exe 파일 빼고 싹 다 지워도 실행에 문제 없을거임
 
 # 림버스 합 승률 계산기 
